@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is **Aakrit Sharma.**
+My name is **Aakriti Sharma.**
 
 I'm junior year **Computer Science** student at Chandigarh University. I'm **machine learning engineer** and data analyst. I'm also keenly interested in Public Healthcare Research and Analytics. 
 Currently, I'm working on my 100 days of coding challenge, where I try to solve at least one Data-structures and Algorithms question.
